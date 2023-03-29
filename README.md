@@ -1,2 +1,2 @@
-# tarot-guy
+# tarot-bestie
 tarot card puller
